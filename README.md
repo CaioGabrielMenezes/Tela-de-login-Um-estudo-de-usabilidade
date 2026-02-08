@@ -50,18 +50,27 @@ O processo de login exige poucos passos, possui feedback imediato e evita açõe
 
 ## ▶️ Instruções de Execução
 
-Você pode executar o projeto de duas formas:
+Você pode executar o projeto de três formas:
 
-### 🔹 Opção 1 — Abrir direto no navegador (modo simples)
-1. Baixe ou clone o repositório do projeto.
+### 🔹 Opção 1 — Acessar online (GitHub Pages)
+Você pode abrir o projeto diretamente pelo navegador, sem precisar baixar nada:
+
+🔗 **https://seu-usuario.github.io/nome-do-repositorio/**
+
+---
+
+### 🔹 Opção 2 — Abrir direto no navegador (modo simples)
+1. Baixe ou clone o repositório do projeto.  
 2. Abra o arquivo `index.html` no navegador.
 
-### 🔹 Opção 2 — Usando a extensão Live Server (recomendado)
-1. Baixe ou clone o repositório do projeto.
-2. Abra a pasta do projeto no **Visual Studio Code**.
-3. Instale a extensão **Live Server** (caso ainda não tenha).
-4. Clique com o botão direito no arquivo `index.html`.
-5. Selecione **“Open with Live Server”**.
+---
+
+### 🔹 Opção 3 — Usando a extensão Live Server (recomendado)
+1. Baixe ou clone o repositório do projeto.  
+2. Abra a pasta do projeto no **Visual Studio Code**.  
+3. Instale a extensão **Live Server** (caso ainda não tenha).  
+4. Clique com o botão direito no arquivo `index.html`.  
+5. Selecione **“Open with Live Server”**.  
 
 O projeto será aberto automaticamente no navegador.
 
