@@ -55,7 +55,7 @@ Você pode executar o projeto de três formas:
 ### 🔹 Opção 1 — Acessar online (GitHub Pages)
 Você pode abrir o projeto diretamente pelo navegador, sem precisar baixar nada:
 
-🔗 **https://seu-usuario.github.io/nome-do-repositorio/**
+🔗 **https://caiogabrielmenezes.github.io/Tela-de-login-Um-estudo-de-usabilidade/**
 
 ---
 
