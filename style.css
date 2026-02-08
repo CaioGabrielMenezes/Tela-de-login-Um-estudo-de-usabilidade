@@ -1,0 +1,124 @@
+body {
+  background-color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* Centralização */
+.login-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.login-welcome-title {
+  color: #ffffff;
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+
+/* Card */
+.login-card {
+  background-color: #111827;
+  border-radius: 10px;
+  border: 1px solid #1f2937;
+}
+
+/* Textos */
+.form-title {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.form-subtitle {
+  color: #9ca3af;
+  font-size: 14px;
+}
+
+.form-label {
+  color: #e5e7eb;
+}
+
+/* Inputs */
+.form-control {
+  background-color: #020617;
+  border: 1px solid #1f2937;
+  color: #e5e7eb;
+}
+
+.form-control:focus {
+  background-color: #020617;
+  color: #ffffff;
+  border-color: #3b82f6;
+  box-shadow: none;
+}
+
+/* Olho da senha */
+.password-toggle {
+  position: absolute;
+  right: 10px;
+  top: 38px;
+  cursor: pointer;
+}
+
+/* Links */
+.forgot-link,
+.signup-link {
+  color: #60a5fa;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.forgot-link:hover,
+.signup-link:hover {
+  text-decoration: underline;
+}
+
+/* Botões sociais */
+.btn-social {
+  width: 44px;
+  height: 44px;
+  border: 1px solid #1f2937;
+  background-color: #020617;
+  color: #9ca3af;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.btn-social:hover {
+  background-color: #1f2937;
+  color: #ffffff;
+}
+
+/* Divisor */
+.login-divider {
+  text-align: center;
+  color: #9ca3af;
+  font-size: 13px;
+}
+
+.login-welcome-description {
+  color: #b0b0b0;
+  margin-bottom: 32px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.security-footer {
+  position: fixed;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.8rem;
+  opacity: 0.5;
+  color: #ccc;
+  user-select: none;
+  pointer-events: none;
+}
