@@ -50,6 +50,9 @@ O processo de login exige poucos passos, possui feedback imediato e evita açõe
 
 ## ▶️ Instruções de Execução
 
+email: admin@email.com
+senha: 12345678
+
 Você pode executar o projeto de três formas:
 
 ### 🔹 Opção 1 — Acessar online (GitHub Pages)
